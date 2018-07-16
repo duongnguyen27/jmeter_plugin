@@ -1,0 +1,5 @@
+Debug,true
+DataFolderNonDebug,data
+DataFolderDebug,data_debug
+Testcase01,true
+Testcase02,false
