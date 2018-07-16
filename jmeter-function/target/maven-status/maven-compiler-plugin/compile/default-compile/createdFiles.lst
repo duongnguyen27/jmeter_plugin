@@ -1,7 +1,0 @@
-com\nashtech\jmeter\plugin\functions\InitializeProperties.class
-com\nashtech\jmeter\plugin\functions\LoadUserVars.class
-com\nashtech\jmeter\plugin\functions\LoadVarsFromFile.class
-com\nashtech\jmeter\plugin\functions\LoadTestConfigVars.class
-com\nashtech\jmeter\plugin\functions\UserVariableLoader.class
-com\nashtech\jmeter\plugin\functions\IndexCounter.class
-com\nashtech\jmeter\plugin\functions\GetUserFilePath.class
