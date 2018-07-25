@@ -34,6 +34,8 @@ public class LoadTestConfigVarsTest {
 		Assert.assertEquals("true", props.get("Debug"));
 		Assert.assertEquals("data", props.get("DataFolderNonDebug"));
 		Assert.assertEquals("data_debug", props.get("DataFolderDebug"));
+		Assert.assertEquals("true", props.get("Testcase01"));
+		Assert.assertEquals("false", props.get("Testcase02"));
 		Assert.assertEquals(FileServer.getFileServer().getBaseDir() + "\\data_debug", props.get("UserFilePath"));
 	}
 }
